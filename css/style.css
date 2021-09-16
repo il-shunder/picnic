@@ -470,6 +470,7 @@ footer {
 }
 
 .program__body::-webkit-scrollbar-track {
+  box-shadow: none;
   -webkit-box-shadow: none;
   background-color: #f9f9fd;
 }
